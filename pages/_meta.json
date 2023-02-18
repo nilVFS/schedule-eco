@@ -1,15 +1,28 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": {
+    "title": "Главная",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "schedule": {
+    "title": "Расписание",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "coursework": "Курсовые работы",
+  "tasks": "Задания",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "О сайте",
+    "theme": {
+      "typesetting": "article"
+    }
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Связь ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://vk.com/nilvfs",
     "newWindow": true
   }
 }
